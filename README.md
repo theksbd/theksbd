@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theksbd
 - 👀 I’m interested in Football and Some Internet Technology Things
-- 🌱 I’m currently learning Computer Science at University of Technology Ho Chi Minh City, Viet Nam
-- 💞️ I’m looking to collaborate on somewhere i don't know :))
+- 🌱 I’m currently learning Computer Science at Ho Chi Minh City University of Technology, Viet Nam
+- 💞️ I’m looking to collaborate to anyone who wants to connect with me :))
 - 📫 How to reach me: Contact me through any media you likes:
                       + Facebook: https://www.facebook.com/kids.the.5/
                       + Gmail: theksbd@gmail.com
