@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theksbd
-- 👀 I’m interested in football and some internet technology things.
-- 🌱 I’m currently learning Computer Science at Ho Chi Minh City University of Technology, Viet Nam
+- 👀 I deeply love to watch football and always find it exciting whenever I learn new technical stuff.
+- 🌱 I’m currently a Computer Science student of Ho Chi Minh City University of Technology, Viet Nam
 - 💞️ I’m looking forward to collaborating with anyone who wants to work with me :))
 - 📫 How to reach me: Contact me through any medium you likes:  
                       - Facebook: https://www.facebook.com/kids.the.5/  
