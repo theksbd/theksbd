@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer (On my path 😂)
 ------------------
 
-I want to become a full stack developer with Javascript ecosystem (mainly MERN stack)!
+I am on my way to become a Fullstack Developer using Javascript ecosystem (mainly MERN stack) and Java (Spring) 💪💪!
 
 # 💫 About Me:
-🌍  I'm based in Ho Chi Minh City<br>🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>🚀  I'm currently a forth-year student at Ho Chi Minh City University of Technology - HCMUT<br>🧠  I'm learning MERN stack<br>🤝  I'm open to collaborating on Projects<br>⭐   I love football very much ❤ 
+🌍  I'm based in Ho Chi Minh City<br>🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>🚀  I'm currently a forth-year student at Ho Chi Minh City University of Technology - HCMUT<br>🧠  I'm learning MERN stack<br>🤝  I'm open to collaborating on Projects<br>😛  Football is my favorite sport
 
 
 ## 🌐 Socials:
