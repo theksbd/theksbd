@@ -1,4 +1,4 @@
-This is a Markdown file that stores future skill sets which I will learn and acquire soon. 
+A Markdown file storing future skill sets that I will learn and acquire soon. 
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
