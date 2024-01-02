@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Đỗ Thiện Hoàng
 ===================================================================================================================================
 
-Fullstack Engineer (On my way 😂)
+Fullstack Engineer
 ------------------
 
-I am on my way to become a Fullstack Engineer using Javascript ecosystem (MERN stack) and Java (Spring) 💪💪!
+I am a Fullstack Engineer using Angular and Java (Spring), love to work with MERN stack as well 💪💪!
 
 # 💫 About Me:
 🌍  I'm based in Ho Chi Minh City<br>🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>🚀  I'm currently a forth-year student at Ho Chi Minh City University of Technology - HCMUT<br>🧠  I'm learning MERN stack<br>🤝  I'm open to collaborating on Projects<br>😛  Football is my favorite sport
