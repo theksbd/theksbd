@@ -7,8 +7,11 @@ Fullstack Engineer
 I am a Fullstack Engineer using Angular and Java (Spring), love to work with MERN stack as well 💪💪!
 
 # 💫 About Me:
-🌍  I'm based in Ho Chi Minh City<br>🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>🚀  I'm currently a forth-year student at Ho Chi Minh City University of Technology - HCMUT<br>🧠  I'm learning MERN stack<br>🤝  I'm open to collaborating on Projects<br>😛  Football is my favorite sport
-
+🌍  I'm based in Ho Chi Minh City<br>
+🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>
+✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>
+🚀  I'm open to collaborating on Projects<br>
+😛  Football is my favorite sport
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-do-thien-4b77b8228) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hoangdo1909) 
