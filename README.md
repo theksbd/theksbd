@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Đỗ Thiện Hoàng
 ===================================================================================================================================
 
-Fullstack Engineer
+Fullstack Software Engineer
 ------------------
 
-I am a Fullstack Engineer using Angular and Java (Spring), love to work with MERN stack as well 💪💪!
+I am a Fullstack Software Engineer specializing in React/Angular, Java (Spring) and Node.js 💪💪!
 
 # 💫 About Me:
 🌍  I'm based in Ho Chi Minh City<br>
 🖥️  See my portfolio at [my personal portfolio website](https://hoang-thien-do.vercel.app/)<br>
-✉️  You can contact me at [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>
+✉️  You can contact me via [hoang.do19092001@gmail.com](mailto:hoang.do19092001@gmail.com)<br>
 🚀  I'm open to collaborating on Projects<br>
 😛  Football is my favorite sport
 
@@ -44,7 +44,7 @@ I am a Fullstack Engineer using Angular and Java (Spring), love to work with MER
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme -->
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
